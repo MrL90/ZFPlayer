@@ -107,7 +107,7 @@ player.controlView = controlView;
 
 ZFPlayer is available under the MIT license. See the LICENSE file for more info.
 
-> This project is forked from https://github.com/renzifeng/xxx  
+> This project is forked from https://github.com/renzifeng/ZFPlayer  
 > Original author: renzifeng  
 > License: MIT
 
